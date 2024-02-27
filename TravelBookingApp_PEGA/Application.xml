@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="Travelbo 20240225.101444" description="" >
+	<parfile name="UAP_RECKINGSMAKERS_TRAVELBOOKING_PROJECTFILE_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="UAP_RECKINGSMAKERS_TRAVELBOOKING_PROJECTFILE_schema.jar" order="2"/>
+	<parfile name="UAP_RECKINGSMAKERS_TRAVELBOOKING_PROJECTFILE_rules.jar" order="3"/>
+</application>

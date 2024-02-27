@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: author@book
+Pega-Codeset-Name: Customer
+ArtifactVersion: 20240225.101444
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: product
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Travelbo
+Name: Travelbo
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2024-Feb-25 05:00:00
+Version: 20240225.101444
+Engine-Version: 08-08-05
+Export-Date: 2024-Feb-25 15:16:55
+Instance-Count: 5867
+Archive-Type: PegaArchive
+PRPC-Engine: 8.8.4 PRPC-8.8.4-684 ()
+
+Name: FileMetadata
+
